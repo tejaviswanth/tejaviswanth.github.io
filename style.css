@@ -1,14 +1,16 @@
  h1{
-                color:red;
-                background: blue;
+                color:darkred;
+    
             }
+h2{
+    color:#EAB543;
+    background:#3B3B98;
+}
             h3{
                 color:yellow;
                 background: brown;
             }
 body{
-    color:blanchedalmond;
-}
-#skills{
-    color:aqua;
+    color:green;
+    background: white;
 }
