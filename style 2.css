@@ -1,0 +1,22 @@
+h1{
+    color:red;
+                 }
+h3{
+    color: red;
+    background:violet;
+}     
+body{
+    color:green;
+    background: #34495e;
+}
+.box{
+    background-image: url(pic.jpg);
+    margin:300px 500px 300px 500px;
+    padding: 50px;
+}
+#image{
+    width:100px;
+    height:100px;
+    border: 10px solid red;
+    border-radius: 100px;
+}
